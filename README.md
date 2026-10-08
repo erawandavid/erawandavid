@@ -21,8 +21,7 @@
 
 - 🎓 Undergraduate **Computer Science** student at **BINUS University** (Jakarta)
 - 🤝 **Partnerships Specialist** @ BINUS Blockchain and Crypto Club
-- 💼 **Associate** @ BBKA Partners B.V.
-- 🔭 Currently building: a programming language, an iOS money tracker, and crypto trading tools
+- 🔭 Currently building and skills: a programming language, an iOS money tracker, machine learning dev, AI model trainer, and crypto trading tools
 - 🌏 Speaks English & Mandarin
 
 <p align="center">
