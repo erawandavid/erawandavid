@@ -26,7 +26,7 @@
 - 🌏 Speaks English & Mandarin
 
 <p align="center">
-  <img src="./assets/bitcoin.svg" width="100%" alt="Animated Bitcoin coin sending a transaction along a blockchain" />
+  <img src="./bitcoin.svg" width="100%" alt="Animated Bitcoin coin sending a transaction along a blockchain" />
 </p>
 
 ---
